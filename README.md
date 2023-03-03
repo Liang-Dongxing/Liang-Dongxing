@@ -52,8 +52,8 @@ I'm a full-stack Java developer from China! 💻 I love building cool things wit
 <br>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Liang-Dongxing&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liang-Dongxing&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Stats Overview](https://raw.githubusercontent.com/Liang-Dongxing/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Liang-Dongxing/github-stats-transparent/output/generated/languages.svg)
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
