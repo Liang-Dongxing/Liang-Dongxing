@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 I'm a full-stack Java developer from China! 💻 I love building cool things with different technologies, such as web applications, mobile applications, and more. 🚀 I enjoy exploring new tech stacks and applying them to real-world projects. In my free time, I also like to browse GitHub and contribute to open-source projects. 💪 Let's create something amazing together! 🤝
 
-### :hammer_and_wrench: Languages and Tools :
+### ⚒️ Languages and Tools :
 <a href="https://www.java.com" target="_blank">
   <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg">
 </a>
@@ -45,7 +45,9 @@ I'm a full-stack Java developer from China! 💻 I love building cool things wit
 <br>
 <br>
 
-### :fire: My Stats :
+### ⭐ My Stats :
 ![Stats Overview](https://raw.githubusercontent.com/Liang-Dongxing/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Liang-Dongxing/github-stats-transparent/output/generated/languages.svg)
 
+### ☄️ Github Streaks
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Liang-Dongxing&hide_border=true" />
