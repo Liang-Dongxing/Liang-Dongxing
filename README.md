@@ -1,12 +1,8 @@
 ## Hey 👋, I'm Liang Dong Xing!
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
 
-<br/>
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 I'm a full-stack Java developer from China! 💻 I love building cool things with different technologies, such as web applications, mobile applications, and more. 🚀 I enjoy exploring new tech stacks and applying them to real-world projects. In my free time, I also like to browse GitHub and contribute to open-source projects. 💪 Let's create something amazing together! 🤝
-
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <a href="https://www.java.com" target="_blank">
