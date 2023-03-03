@@ -12,7 +12,6 @@
 <p style="margin-top: 0.125em;">I'm a full-stack Java developer from China! 💻 I love building cool things with different technologies, such as web applications, mobile applications, and more. 🚀 I enjoy exploring new tech stacks and applying them to real-world projects. In my free time, I also like to browse GitHub and contribute to open-source projects. 💪 Let's create something amazing together! 🤝</p>
 <br />
 <br />
-<br />
 <h3>⚒️ Languages and Tools :</h3>
 <a href="https://www.java.com" target="_blank">
   <img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" />
