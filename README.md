@@ -1,5 +1,8 @@
 ## Hey 👋, I'm Liang Dong Xing!
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dongxing_liang)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dongxing-liang-219879268/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:liangdongxing.cn@outlook.com)
+
 
 <img align="right" alt="GIF" src="https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/Right_Side.gif" width="300"/>
 I'm a full-stack Java developer from China! 💻 I love building cool things with different technologies, such as web applications, mobile applications, and more. 🚀 I enjoy exploring new tech stacks and applying them to real-world projects. In my free time, I also like to browse GitHub and contribute to open-source projects. 💪 Let's create something amazing together! 🤝
