@@ -52,12 +52,8 @@
 <br />
 <br />
 <h3>⭐ My Stats :</h3>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Liang-Dongxing/github-stats-transparent/output/generated/overview.svg" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/Liang-Dongxing/github-stats-transparent/output/generated/languages.svg" />
-</a>
+<img src="https://raw.githubusercontent.com/Liang-Dongxing/github-stats-transparent/output/generated/overview.svg" />
+<img src="https://raw.githubusercontent.com/Liang-Dongxing/github-stats-transparent/output/generated/languages.svg" />
 <h3>☄️ Github Streaks :</h3>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Liang-Dongxing&hide_border=true" />
 <hr>
