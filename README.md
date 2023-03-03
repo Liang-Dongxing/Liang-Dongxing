@@ -1,7 +1,5 @@
 ## Hey 👋, I'm Liang Dong Xing!
-<a href="https://twitter.com/dongxing_liang/" target="_blank">
-  <img alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height="18px"/>
-</a>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
 
 <br/>
 
