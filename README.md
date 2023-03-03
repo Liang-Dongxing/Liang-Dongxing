@@ -55,17 +55,3 @@ I'm a full-stack Java developer from China! 💻 I love building cool things wit
 ![Stats Overview](https://raw.githubusercontent.com/Liang-Dongxing/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Liang-Dongxing/github-stats-transparent/output/generated/languages.svg)
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
-<!-- BLOG-POST-LIST:END -->
-
-
-
-
-
-
-
-
-
-
